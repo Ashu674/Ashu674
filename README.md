@@ -1,4 +1,6 @@
 Hey there, I'm Asutosh Kumar!
+______________________________________
+
 🎓 I've completed my Bachelors Degree in Computer Science.
 🌱 I'm currently learning from Coursera,Great Learning, Kaggle, Youtube.
 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
