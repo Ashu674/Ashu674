@@ -4,9 +4,9 @@ ______________________________________
 
 🌱 I'm currently learning from Coursera,Great Learning, Kaggle, Youtube.
 
-🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
+🤝🏻 I'm open for collaborations in Machine Learning domains Projects.
 
-🌱 I’m currently learning Improve myself everyday in the field of data science.
+🌱 I’m currently learning to Improve myself everyday in the field of data science.
 
 💞️ I’m looking to collaborate on Data Science Projects to Work together and Learn together.
 
