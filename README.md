@@ -1,12 +1,12 @@
 Hey there, I'm Asutosh Kumar!
 ______________________________________
-   I have almost 2 years experience as a Data Engineer.
+   I have 2+ years experience as a Data Engineer.
 
 🎓 I've completed my Bachelors Degree in Computer Science.
 
 🌱 I'm currently learning from Coursera, Great Learning, Kaggle, Youtube.
 
-🤝🏻 I'm open for collaborations in Machine Learning domains Projects.
+🤝🏻 I'm open for collaborations in Machine Learning, Cloud based domains Projects.
 
 🌱 I’m currently learning to Improve myself everyday in the field of data science.
 
